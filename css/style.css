@@ -1,0 +1,129 @@
+/* Your styles here */
+body {
+  background-color: #e9edee;
+  width: 100%;
+  font-family: sans-serif;
+}
+header {
+  background-color: #222f3f;
+  padding-left: 1.3rem;
+}
+
+#amazLogo {
+  width: 10%;
+  padding-left: 2.5rem;
+  padding: 0.5rem;
+}
+
+.topbar {
+  text-align: left;
+  background-color: #364757;
+  width: 100%;
+  font-size: smaller;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 2rem;
+  padding: 0.3rem 0rem 0.3rem 0rem;
+}
+li {
+  display: inline-block;
+  color: white;
+  margin-right: 1rem;
+}
+
+main {
+  padding: 0rem 1.5rem 0.7rem 2rem;
+}
+
+.orangebar {
+  text-align: center;
+  background-color: #f56600;
+  color: white;
+  margin: 1rem 0rem 1rem 0rem;
+  padding: 0.3rem;
+  font-size: xx-small;
+}
+
+.backgroundimage {
+  width: 100%;
+  background-image: url(/images/bg-image.png);
+  background-size: contain;
+  padding: 2.5rem 0rem 2.5rem 0rem;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.white {
+  background-color: white;
+  padding: 1rem 0rem 0rem 1.5rem;
+}
+
+.spaziovuoto {
+  padding: 0.8rem;
+}
+.imagerow {
+  width: 100%;
+  background-color: white;
+  text-align: center;
+  vertical-align: bottom;
+}
+a {
+  color: #1575cf;
+  padding-left: 0.5rem;
+}
+
+.foto {
+  border-radius: 25px;
+  width: 22%;
+  max-width: 100%;
+  display: inline-block;
+  height: 261px;
+  margin: 10px;
+  object-fit: cover;
+  box-shadow: 10px 10px 5px rgb(223, 221, 221);
+}
+
+section {
+  width: 100%;
+  text-align: center;
+}
+
+h2,
+h3,
+h4 {
+  padding-bottom: 1rem;
+  font-size: smaller;
+  font-weight: bold;
+}
+
+.fotolarge {
+  width: 100%;
+}
+footer {
+  background-color: #36808f;
+}
+
+footer a {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: smaller;
+}
+
+.footerpiccolo {
+  padding: 0.7rem;
+  background-color: #364757;
+  text-align: center;
+}
+.footergrande {
+  background-color: #222f3f;
+  padding: 2.5rem;
+  text-align: center;
+}
+
+#logoamzn {
+  width: 15%;
+}
